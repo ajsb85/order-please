@@ -18,6 +18,6 @@
   "homepage": "https://github.com/shanshanc/order-please#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.3"
   }
 }
